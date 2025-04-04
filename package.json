@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "@openzeppelin/contracts": "^5.2.0"
-  }
+  },
+  "name": "klo_nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collins-klo/klo_nft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collins-klo/klo_nft/issues"
+  },
+  "homepage": "https://github.com/Collins-klo/klo_nft#readme"
 }
